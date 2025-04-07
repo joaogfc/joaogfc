@@ -1,15 +1,15 @@
-# 👋 Olá! Eu sou o João
+# 👋 Hi! I'm João
 
-Sou estudante de **Ciência da Computação na UFMG**, com interesse em desenvolvimento de sistemas, automações e soluções que facilitam a vida das pessoas.
+I'm a **Computer Science student at UFMG (Federal University of Minas Gerais)**, passionate about systems development, automation, and creating solutions that make people's lives easier.
 
-Atualmente estou focado em:
-- 🔧 Desenvolvimento com **C**, **JavaScript**, **PHP**, **HTML** e **CSS**
-- 📲 Criação de bots e automações, especialmente no **WhatsApp**
-- 🧠 Aprendizado contínuo em estrutura de dados e projeto de software
+Currently focused on:
+- 🔧 Development with **C**, **JavaScript**, **PHP**, **HTML**, and **CSS**
+- 📲 Building bots and automations, especially for **WhatsApp**
+- 🧠 Continuously learning data structures and software design
 
 ---
 
-## 💻 Tecnologias que tenho utilizado
+## 💻 Technologies I've been using
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -20,29 +20,29 @@ Atualmente estou focado em:
 
 ---
 
-## 🧠 Atualmente aprendendo
+## 🧠 Currently learning
 
-Como parte do curso de Ciência da Computação na UFMG, estou estudando e aprofundando conhecimentos em:
+As part of the Computer Science program at UFMG, I'm studying and deepening my knowledge in:
 
-- Estruturas de dados e algoritmos
-- Organização e arquitetura de computadores
-- Sistemas operacionais
-- Linguagens formais e compiladores
-- Banco de dados
-- Redes de computadores
-- Engenharia de software
-- Inteligência artificial e aprendizado de máquina
-- Computação paralela e distribuída
+- Data structures and algorithms  
+- Computer organization and architecture  
+- Operating systems  
+- Formal languages and compilers  
+- Databases  
+- Computer networks  
+- Software engineering  
+- Artificial intelligence and machine learning  
+- Parallel and distributed computing  
 
-📚 [Veja a grade completa do curso aqui](https://dcc.ufmg.br/estrutura-curricular-do-bacharelado-em-ciencia-da-computacao/)
+📚 [Click here to see the full curriculum (in Portuguese)](https://dcc.ufmg.br/estrutura-curricular-do-bacharelado-em-ciencia-da-computacao/)
 
 ---
 
-## 📬 Como me encontrar
+## 📬 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogfc)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogfc)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaogfc4@ufmg.br)
 
 ---
 
-🧩 Sempre buscando aprender mais e contribuir com projetos que façam sentido de verdade.
+🧩 Always looking to learn more and contribute to meaningful projects.
