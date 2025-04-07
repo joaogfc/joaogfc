@@ -1,19 +1,19 @@
 # 👋 Olá! Eu sou o João
 
-Sou estudante de **Ciência da Computação na UFMG** e apaixonado por tecnologia, programação e soluções que fazem a diferença.
+Sou estudante de **Ciência da Computação na UFMG**, com interesse em desenvolvimento de sistemas, automações e soluções que facilitam a vida das pessoas.
 
 Atualmente estou focado em:
-- 🔧 Desenvolvimento de bots e automações (especialmente no WhatsApp)
-- 🧠 Aprendizado contínuo em algoritmos, estruturas de dados e inteligência artificial
-- 🌐 Projetos que envolvem web, APIs e integração de sistemas
+- 🔧 Desenvolvimento com **C**, **JavaScript**, **PHP**, **HTML** e **CSS**
+- 📲 Criação de bots e automações, especialmente no **WhatsApp**
+- 🧠 Aprendizado contínuo em estrutura de dados e projeto de software
 
 ---
 
 ## 💻 Tecnologias que tenho utilizado
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -22,9 +22,19 @@ Atualmente estou focado em:
 
 ## 🧠 Atualmente aprendendo
 
-- Desenvolvimento de bots com **Baileys** (API do WhatsApp)
-- Conceitos avançados de **estrutura de dados**
-- Projeto de sistemas em larga escala
+Como parte do curso de Ciência da Computação na UFMG, estou estudando e aprofundando conhecimentos em:
+
+- Estruturas de dados e algoritmos
+- Organização e arquitetura de computadores
+- Sistemas operacionais
+- Linguagens formais e compiladores
+- Banco de dados
+- Redes de computadores
+- Engenharia de software
+- Inteligência artificial e aprendizado de máquina
+- Computação paralela e distribuída
+
+📚 [Veja a grade completa do curso aqui](https://dcc.ufmg.br/estrutura-curricular-do-bacharelado-em-ciencia-da-computacao/)
 
 ---
 
@@ -35,12 +45,4 @@ Atualmente estou focado em:
 
 ---
 
-## ✨ Repositórios em destaque
-
-- 📌 [**meu-bot-whatsapp**](https://github.com/seu-usuario/meu-bot-whatsapp): Bot para automatizar informações de eventos da UFMG via WhatsApp
-- 📌 [**meu-portfólio**](https://github.com/seu-usuario/meu-portfolio): Site pessoal com meus projetos, experiências e contato
-
----
-
-🧩 Sempre aberto a colaborações, ideias novas e boas conversas sobre tecnologia.
-
+🧩 Sempre buscando aprender mais e contribuir com projetos que façam sentido de verdade.
