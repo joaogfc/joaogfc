@@ -1,8 +1,6 @@
 # 👋 Hi! I'm João
-![descrição do gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN0ZHNtMnphN2QyNnhrZjMyMXUyODN1N2dkOXJsb2R2a3htMGUxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7Qx28nEdo9NK/giphy.gif)
 
-I'm a **Computer Science student at UFMG (Federal University of Minas Gerais)**, passionate about systems development, automation, and creating solutions that make people's lives easier.
-
+I'm a **Computer Science student at UFMG (Federal University of Minas Gerais)** <img src="https://www.igc.ufmg.br/wp-content/themes/igcufmg/assets/images/logo-ufmg.png" width="50" style="vertical-align: middle;" />, passionate about systems development, automation, and creating solutions that make people's lives easier.
 Currently focused on:
 - 🔧 Development with **C**, **JavaScript**, **PHP**, **HTML**, and **CSS**
 - 📲 Building bots and automations, especially for **WhatsApp**
