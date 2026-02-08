@@ -2,7 +2,10 @@
 
 I'm a **Computer Science student at UFMG (Federal University of Minas Gerais)** <img src="https://www.igc.ufmg.br/wp-content/themes/igcufmg/assets/images/logo-ufmg.png" width="50" style="vertical-align: middle;" />, passionate about systems development, automation, and creating solutions that make people's lives easier.
 
+**Currently working as SEO Analyst** 🔍 - Specializing in Technical SEO, website optimization, and performance improvements.
+
 Currently focused on:
+- 🔍 **Technical SEO** - Site optimization, performance, crawling, indexing, and Core Web Vitals
 - 🚀 Full-stack development with **TypeScript**, **React**, and **Node.js**
 - 🔧 Development with **C**, **JavaScript**, **PHP**, **HTML**, and **CSS**
 - 📲 Building bots, automations, and browser extensions
